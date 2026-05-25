@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hanzi Game</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="top">
+      <div class="titleRow">
+        <h1>Hanzi Game</h1>
+        <div id="mascot" class="mascot" aria-hidden="true">🐼</div>
+      </div>
+
+      <div class="stats">
+        <div class="badge">⭐ Score: <span id="score">0</span></div>
+        <div class="badge">🔥 Streak: <span id="streak">300</span></div>
+        <div class="badge">👀 Seen: <span id="seen">0</span></div>
+        <div class="badge">❤️ Lives: <span id="lives">❤️❤️❤️</span></div>
+        <div class="badge">🏅 Stickers: <span id="stickers">0</span></div>
+      </div>
+
+      <div class="toolbar">
+        <label class="ctrl">
+          <span>Set</span>
+          <select id="setSelect">
+            <option value="">Loading…</option>
+          </select>
+        </label>
+        <label class="ctrl">
+          <span>Lesson</span>
+          <select id="lessonSelect">
+            <option value="all">All lessons</option>
+          </select>
+        </label>
+
+
+        <label class="ctrl">
+          <span>Quiz</span>
+          <select id="direction">
+            <option value="hanzi_to_pinyin">Hanzi → Pinyin</option>
+            <option value="pinyin_to_hanzi">Pinyin → Hanzi</option>
+          </select>
+        </label>
+
+        <label class="ctrl">
+          <span>Practice</span>
+          <select id="pool">
+            <option value="all">All</option>
+            <option value="missed">Review missed only</option>
+          </select>
+        </label>
+
+        <label class="check">
+          <input type="checkbox" id="speakCorrect" />
+          <span>Speak when correct</span>
+        </label>
+
+        <label class="check">
+          <input type="checkbox" id="autoSlowVoice" />
+          <span>Auto slow voice</span>
+        </label>
+
+        <!-- <button id="slowVoiceBtn" class="pill">🔊 Slow voice</button> -->
+        <button id="fullscreenBtn" class="pill">⛶ Full screen</button>
+        <button id="resetBtn" class="pill secondary">Reset stats</button>
+      </div>
+    </header>
+
+    <section class="card" id="card">
+      <div class="promptLabel" id="promptLabel">Loading…</div>
+      <div class="prompt" id="prompt">—</div>
+
+      <div class="choices" id="choices"></div>
+
+      <div class="controls">
+        <button id="nextBtn" class="big" disabled>Next ➜</button>
+      </div>
+
+      <div class="small" id="smallMsg"></div>
+    </section>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>
