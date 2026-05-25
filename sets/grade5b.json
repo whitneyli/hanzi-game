@@ -1,0 +1,1835 @@
+{
+  "id": "grade5b",
+  "title": "五年级下册识字表",
+  "lessons": [
+    {
+      "lesson": "课文 1",
+      "words": [
+        {
+          "hanzi": "昼",
+          "pinyin": "zhòu"
+        },
+        {
+          "hanzi": "耘",
+          "pinyin": "yún"
+        },
+        {
+          "hanzi": "供",
+          "pinyin": "gòng"
+        },
+        {
+          "hanzi": "稚",
+          "pinyin": "zhì"
+        },
+        {
+          "hanzi": "漪",
+          "pinyin": "yī"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 2",
+      "words": [
+        {
+          "hanzi": "蚱",
+          "pinyin": "zhà"
+        },
+        {
+          "hanzi": "晃",
+          "pinyin": "huǎng"
+        },
+        {
+          "hanzi": "啃",
+          "pinyin": "kěn"
+        },
+        {
+          "hanzi": "樱",
+          "pinyin": "yīng"
+        },
+        {
+          "hanzi": "蚌",
+          "pinyin": "bàng"
+        },
+        {
+          "hanzi": "割",
+          "pinyin": "gē"
+        },
+        {
+          "hanzi": "嘟",
+          "pinyin": "dū"
+        },
+        {
+          "hanzi": "倭",
+          "pinyin": "wō"
+        },
+        {
+          "hanzi": "拴",
+          "pinyin": "shuān"
+        },
+        {
+          "hanzi": "啰",
+          "pinyin": "luo"
+        },
+        {
+          "hanzi": "逛",
+          "pinyin": "guàng"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 3",
+      "words": [
+        {
+          "hanzi": "徘",
+          "pinyin": "pái"
+        },
+        {
+          "hanzi": "徊",
+          "pinyin": "huái"
+        },
+        {
+          "hanzi": "渺",
+          "pinyin": "miǎo"
+        },
+        {
+          "hanzi": "篝",
+          "pinyin": "gōu"
+        },
+        {
+          "hanzi": "萌",
+          "pinyin": "méng"
+        },
+        {
+          "hanzi": "澄",
+          "pinyin": "chéng"
+        },
+        {
+          "hanzi": "澈",
+          "pinyin": "chè"
+        },
+        {
+          "hanzi": "旖",
+          "pinyin": "yǐ"
+        },
+        {
+          "hanzi": "旎",
+          "pinyin": "nǐ"
+        },
+        {
+          "hanzi": "瑞",
+          "pinyin": "ruì"
+        },
+        {
+          "hanzi": "莱",
+          "pinyin": "lái"
+        },
+        {
+          "hanzi": "垠",
+          "pinyin": "yín"
+        },
+        {
+          "hanzi": "顷",
+          "pinyin": "qǐng"
+        },
+        {
+          "hanzi": "峨",
+          "pinyin": "é"
+        },
+        {
+          "hanzi": "燕",
+          "pinyin": "yān"
+        },
+        {
+          "hanzi": "缀",
+          "pinyin": "zhuì"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 4",
+      "words": [
+        {
+          "hanzi": "葬",
+          "pinyin": "zàng"
+        },
+        {
+          "hanzi": "腮",
+          "pinyin": "sāi"
+        },
+        {
+          "hanzi": "虬",
+          "pinyin": "qiú"
+        },
+        {
+          "hanzi": "玷",
+          "pinyin": "diàn"
+        },
+        {
+          "hanzi": "郑",
+          "pinyin": "zhèng"
+        },
+        {
+          "hanzi": "秉",
+          "pinyin": "bǐng"
+        },
+        {
+          "hanzi": "飕",
+          "pinyin": "sōu"
+        },
+        {
+          "hanzi": "码",
+          "pinyin": "mǎ"
+        },
+        {
+          "hanzi": "撩",
+          "pinyin": "liáo"
+        },
+        {
+          "hanzi": "绢",
+          "pinyin": "juàn"
+        },
+        {
+          "hanzi": "侨",
+          "pinyin": "qiáo"
+        },
+        {
+          "hanzi": "眷",
+          "pinyin": "juàn"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 5",
+      "words": [
+        {
+          "hanzi": "瑜",
+          "pinyin": "yú"
+        },
+        {
+          "hanzi": "忌",
+          "pinyin": "jì"
+        },
+        {
+          "hanzi": "督",
+          "pinyin": "dū"
+        },
+        {
+          "hanzi": "幔",
+          "pinyin": "màn"
+        },
+        {
+          "hanzi": "寨",
+          "pinyin": "zhài"
+        },
+        {
+          "hanzi": "擂",
+          "pinyin": "léi"
+        },
+        {
+          "hanzi": "呐",
+          "pinyin": "nà"
+        },
+        {
+          "hanzi": "弩",
+          "pinyin": "nǔ"
+        },
+        {
+          "hanzi": "丞",
+          "pinyin": "chéng"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 6",
+      "words": [
+        {
+          "hanzi": "倚",
+          "pinyin": "yǐ"
+        },
+        {
+          "hanzi": "箸",
+          "pinyin": "zhù"
+        },
+        {
+          "hanzi": "碟",
+          "pinyin": "dié"
+        },
+        {
+          "hanzi": "斤",
+          "pinyin": "jīn"
+        },
+        {
+          "hanzi": "俺",
+          "pinyin": "ǎn"
+        },
+        {
+          "hanzi": "绰",
+          "pinyin": "chāo"
+        },
+        {
+          "hanzi": "杖",
+          "pinyin": "zhàng"
+        },
+        {
+          "hanzi": "擒",
+          "pinyin": "qín"
+        },
+        {
+          "hanzi": "勿",
+          "pinyin": "wù"
+        },
+        {
+          "hanzi": "肋",
+          "pinyin": "lèi"
+        },
+        {
+          "hanzi": "踉",
+          "pinyin": "liàng"
+        },
+        {
+          "hanzi": "跄",
+          "pinyin": "qiàng"
+        },
+        {
+          "hanzi": "呵",
+          "pinyin": "ā"
+        },
+        {
+          "hanzi": "胯",
+          "pinyin": "kuà"
+        },
+        {
+          "hanzi": "霹",
+          "pinyin": "pī"
+        },
+        {
+          "hanzi": "雳",
+          "pinyin": "lì"
+        },
+        {
+          "hanzi": "咆",
+          "pinyin": "páo"
+        },
+        {
+          "hanzi": "哮",
+          "pinyin": "xiào"
+        },
+        {
+          "hanzi": "锤",
+          "pinyin": "chuí"
+        },
+        {
+          "hanzi": "泊",
+          "pinyin": "pō"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 7",
+      "words": [
+        {
+          "hanzi": "芝",
+          "pinyin": "zhī"
+        },
+        {
+          "hanzi": "遂",
+          "pinyin": "suì"
+        },
+        {
+          "hanzi": "迸",
+          "pinyin": "bèng"
+        },
+        {
+          "hanzi": "涧",
+          "pinyin": "jiàn"
+        },
+        {
+          "hanzi": "獐",
+          "pinyin": "zhāng"
+        },
+        {
+          "hanzi": "猕",
+          "pinyin": "mí"
+        },
+        {
+          "hanzi": "猿",
+          "pinyin": "yuán"
+        },
+        {
+          "hanzi": "耶",
+          "pinyin": "yé"
+        },
+        {
+          "hanzi": "挈",
+          "pinyin": "qiè"
+        },
+        {
+          "hanzi": "瞑",
+          "pinyin": "míng"
+        },
+        {
+          "hanzi": "窍",
+          "pinyin": "qiào"
+        },
+        {
+          "hanzi": "楷",
+          "pinyin": "kǎi"
+        },
+        {
+          "hanzi": "镌",
+          "pinyin": "juān"
+        },
+        {
+          "hanzi": "挠",
+          "pinyin": "náo"
+        },
+        {
+          "hanzi": "劣",
+          "pinyin": "liè"
+        },
+        {
+          "hanzi": "呵",
+          "pinyin": "a"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 8",
+      "words": [
+        {
+          "hanzi": "恰",
+          "pinyin": "qià"
+        },
+        {
+          "hanzi": "屉",
+          "pinyin": "tì"
+        },
+        {
+          "hanzi": "嫣",
+          "pinyin": "yān"
+        },
+        {
+          "hanzi": "讳",
+          "pinyin": "huì"
+        },
+        {
+          "hanzi": "晦",
+          "pinyin": "huì"
+        },
+        {
+          "hanzi": "墩",
+          "pinyin": "dūn"
+        },
+        {
+          "hanzi": "钗",
+          "pinyin": "chāi"
+        },
+        {
+          "hanzi": "敞",
+          "pinyin": "chǎng"
+        },
+        {
+          "hanzi": "雯",
+          "pinyin": "wén"
+        },
+        {
+          "hanzi": "袭",
+          "pinyin": "xí"
+        },
+        {
+          "hanzi": "喇",
+          "pinyin": "lǎ"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 9",
+      "words": [
+        {
+          "hanzi": "仞",
+          "pinyin": "rèn"
+        },
+        {
+          "hanzi": "岳",
+          "pinyin": "yuè"
+        },
+        {
+          "hanzi": "蓟",
+          "pinyin": "jì"
+        },
+        {
+          "hanzi": "涕",
+          "pinyin": "tì"
+        },
+        {
+          "hanzi": "裳",
+          "pinyin": "cháng"
+        },
+        {
+          "hanzi": "襄",
+          "pinyin": "xiāng"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 10",
+      "words": [
+        {
+          "hanzi": "彭",
+          "pinyin": "péng"
+        },
+        {
+          "hanzi": "拟",
+          "pinyin": "nǐ"
+        },
+        {
+          "hanzi": "谋",
+          "pinyin": "móu"
+        },
+        {
+          "hanzi": "赴",
+          "pinyin": "fù"
+        },
+        {
+          "hanzi": "殊",
+          "pinyin": "shū"
+        },
+        {
+          "hanzi": "踌",
+          "pinyin": "chóu"
+        },
+        {
+          "hanzi": "躇",
+          "pinyin": "chú"
+        },
+        {
+          "hanzi": "黯",
+          "pinyin": "àn"
+        },
+        {
+          "hanzi": "革",
+          "pinyin": "gé"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 11",
+      "words": [
+        {
+          "hanzi": "沃",
+          "pinyin": "wò"
+        },
+        {
+          "hanzi": "匪",
+          "pinyin": "fěi"
+        },
+        {
+          "hanzi": "绷",
+          "pinyin": "bēng"
+        },
+        {
+          "hanzi": "衷",
+          "pinyin": "zhōng"
+        },
+        {
+          "hanzi": "堪",
+          "pinyin": "kān"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 12",
+      "words": [
+        {
+          "hanzi": "筹",
+          "pinyin": "chóu"
+        },
+        {
+          "hanzi": "矜",
+          "pinyin": "jīn"
+        },
+        {
+          "hanzi": "俘",
+          "pinyin": "fú"
+        },
+        {
+          "hanzi": "镯",
+          "pinyin": "zhuó"
+        },
+        {
+          "hanzi": "吓",
+          "pinyin": "hè"
+        },
+        {
+          "hanzi": "裆",
+          "pinyin": "dāng"
+        },
+        {
+          "hanzi": "企",
+          "pinyin": "qǐ"
+        },
+        {
+          "hanzi": "彼",
+          "pinyin": "bǐ"
+        },
+        {
+          "hanzi": "褂",
+          "pinyin": "guà"
+        },
+        {
+          "hanzi": "坞",
+          "pinyin": "wù"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 13",
+      "words": [
+        {
+          "hanzi": "嘎",
+          "pinyin": "gǎ"
+        },
+        {
+          "hanzi": "绊",
+          "pinyin": "bàn"
+        },
+        {
+          "hanzi": "揪",
+          "pinyin": "jiū"
+        },
+        {
+          "hanzi": "扳",
+          "pinyin": "bān"
+        },
+        {
+          "hanzi": "腕",
+          "pinyin": "wàn"
+        },
+        {
+          "hanzi": "铸",
+          "pinyin": "zhù"
+        },
+        {
+          "hanzi": "颧",
+          "pinyin": "quán"
+        },
+        {
+          "hanzi": "疤",
+          "pinyin": "bā"
+        },
+        {
+          "hanzi": "监",
+          "pinyin": "jiàn"
+        },
+        {
+          "hanzi": "侄",
+          "pinyin": "zhí"
+        },
+        {
+          "hanzi": "痰",
+          "pinyin": "tán"
+        },
+        {
+          "hanzi": "揩",
+          "pinyin": "kāi"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 14",
+      "words": [
+        {
+          "hanzi": "浆",
+          "pinyin": "jiāng"
+        },
+        {
+          "hanzi": "傅",
+          "pinyin": "fù"
+        },
+        {
+          "hanzi": "袱",
+          "pinyin": "fú"
+        },
+        {
+          "hanzi": "蘸",
+          "pinyin": "zhàn"
+        },
+        {
+          "hanzi": "馅",
+          "pinyin": "xiàn"
+        },
+        {
+          "hanzi": "诈",
+          "pinyin": "zhà"
+        },
+        {
+          "hanzi": "怔",
+          "pinyin": "zhēng"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 15",
+      "words": [
+        {
+          "hanzi": "吾",
+          "pinyin": "wú"
+        },
+        {
+          "hanzi": "弗",
+          "pinyin": "fú"
+        },
+        {
+          "hanzi": "夫",
+          "pinyin": "fú"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 16",
+      "words": [
+        {
+          "hanzi": "策",
+          "pinyin": "cè"
+        },
+        {
+          "hanzi": "荐",
+          "pinyin": "jiàn"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 17",
+      "words": [
+        {
+          "hanzi": "肆",
+          "pinyin": "sì"
+        },
+        {
+          "hanzi": "桅",
+          "pinyin": "wéi"
+        },
+        {
+          "hanzi": "撕",
+          "pinyin": "sī"
+        },
+        {
+          "hanzi": "唬",
+          "pinyin": "hǔ"
+        },
+        {
+          "hanzi": "龇",
+          "pinyin": "zī"
+        },
+        {
+          "hanzi": "咧",
+          "pinyin": "liě"
+        },
+        {
+          "hanzi": "瞄",
+          "pinyin": "miáo"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 18",
+      "words": [
+        {
+          "hanzi": "尼",
+          "pinyin": "ní"
+        },
+        {
+          "hanzi": "艄",
+          "pinyin": "shāo"
+        },
+        {
+          "hanzi": "翘",
+          "pinyin": "qiào"
+        },
+        {
+          "hanzi": "姆",
+          "pinyin": "mǔ"
+        },
+        {
+          "hanzi": "祷",
+          "pinyin": "dǎo"
+        },
+        {
+          "hanzi": "雇",
+          "pinyin": "gù"
+        },
+        {
+          "hanzi": "哗",
+          "pinyin": "huá"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 19",
+      "words": [
+        {
+          "hanzi": "毡",
+          "pinyin": "zhān"
+        },
+        {
+          "hanzi": "犊",
+          "pinyin": "dú"
+        },
+        {
+          "hanzi": "眺",
+          "pinyin": "tiào"
+        },
+        {
+          "hanzi": "膘",
+          "pinyin": "biāo"
+        },
+        {
+          "hanzi": "驰",
+          "pinyin": "chí"
+        },
+        {
+          "hanzi": "爵",
+          "pinyin": "jué"
+        },
+        {
+          "hanzi": "噜",
+          "pinyin": "lū"
+        },
+        {
+          "hanzi": "吆",
+          "pinyin": "yāo"
+        },
+        {
+          "hanzi": "哞",
+          "pinyin": "mōu"
+        },
+        {
+          "hanzi": "畜",
+          "pinyin": "chù"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 20",
+      "words": [
+        {
+          "hanzi": "译",
+          "pinyin": "yì"
+        },
+        {
+          "hanzi": "愧",
+          "pinyin": "kuì"
+        },
+        {
+          "hanzi": "熠",
+          "pinyin": "yì"
+        },
+        {
+          "hanzi": "遐",
+          "pinyin": "xiá"
+        },
+        {
+          "hanzi": "黏",
+          "pinyin": "nián"
+        },
+        {
+          "hanzi": "刃",
+          "pinyin": "rèn"
+        },
+        {
+          "hanzi": "埃",
+          "pinyin": "āi"
+        },
+        {
+          "hanzi": "滥",
+          "pinyin": "làn"
+        },
+        {
+          "hanzi": "淤",
+          "pinyin": "yū"
+        },
+        {
+          "hanzi": "湛",
+          "pinyin": "zhàn"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 21",
+      "words": [
+        {
+          "hanzi": "诣",
+          "pinyin": "yì"
+        },
+        {
+          "hanzi": "禽",
+          "pinyin": "qín"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 22",
+      "words": [
+        {
+          "hanzi": "拇",
+          "pinyin": "mǔ"
+        },
+        {
+          "hanzi": "弦",
+          "pinyin": "xián"
+        },
+        {
+          "hanzi": "揿",
+          "pinyin": "qìn"
+        },
+        {
+          "hanzi": "搔",
+          "pinyin": "sāo"
+        },
+        {
+          "hanzi": "窈",
+          "pinyin": "yǎo"
+        },
+        {
+          "hanzi": "窕",
+          "pinyin": "tiǎo"
+        },
+        {
+          "hanzi": "秽",
+          "pinyin": "huì"
+        },
+        {
+          "hanzi": "轧",
+          "pinyin": "yà"
+        },
+        {
+          "hanzi": "拧",
+          "pinyin": "nǐng"
+        },
+        {
+          "hanzi": "纽",
+          "pinyin": "niǔ"
+        },
+        {
+          "hanzi": "仓",
+          "pinyin": "cāng"
+        },
+        {
+          "hanzi": "薄",
+          "pinyin": "bó"
+        },
+        {
+          "hanzi": "庸",
+          "pinyin": "yōng"
+        },
+        {
+          "hanzi": "憎",
+          "pinyin": "zēng"
+        }
+      ]
+    },
+    {
+      "lesson": "课文 23",
+      "words": [
+        {
+          "hanzi": "胚",
+          "pinyin": "pēi"
+        },
+        {
+          "hanzi": "祸",
+          "pinyin": "huò"
+        },
+        {
+          "hanzi": "患",
+          "pinyin": "huàn"
+        },
+        {
+          "hanzi": "赋",
+          "pinyin": "fù"
+        },
+        {
+          "hanzi": "痴",
+          "pinyin": "chī"
+        },
+        {
+          "hanzi": "绞",
+          "pinyin": "jiǎo"
+        },
+        {
+          "hanzi": "嘿",
+          "pinyin": "hēi"
+        },
+        {
+          "hanzi": "伊",
+          "pinyin": "yī"
+        },
+        {
+          "hanzi": "娜",
+          "pinyin": "nà"
+        },
+        {
+          "hanzi": "窘",
+          "pinyin": "jiǒng"
+        }
+      ]
+    }
+  ],
+  "all": [
+    {
+      "hanzi": "昼",
+      "pinyin": "zhòu"
+    },
+    {
+      "hanzi": "耘",
+      "pinyin": "yún"
+    },
+    {
+      "hanzi": "供",
+      "pinyin": "gòng"
+    },
+    {
+      "hanzi": "稚",
+      "pinyin": "zhì"
+    },
+    {
+      "hanzi": "漪",
+      "pinyin": "yī"
+    },
+    {
+      "hanzi": "蚱",
+      "pinyin": "zhà"
+    },
+    {
+      "hanzi": "晃",
+      "pinyin": "huǎng"
+    },
+    {
+      "hanzi": "啃",
+      "pinyin": "kěn"
+    },
+    {
+      "hanzi": "樱",
+      "pinyin": "yīng"
+    },
+    {
+      "hanzi": "蚌",
+      "pinyin": "bàng"
+    },
+    {
+      "hanzi": "割",
+      "pinyin": "gē"
+    },
+    {
+      "hanzi": "嘟",
+      "pinyin": "dū"
+    },
+    {
+      "hanzi": "倭",
+      "pinyin": "wō"
+    },
+    {
+      "hanzi": "拴",
+      "pinyin": "shuān"
+    },
+    {
+      "hanzi": "啰",
+      "pinyin": "luo"
+    },
+    {
+      "hanzi": "逛",
+      "pinyin": "guàng"
+    },
+    {
+      "hanzi": "徘",
+      "pinyin": "pái"
+    },
+    {
+      "hanzi": "徊",
+      "pinyin": "huái"
+    },
+    {
+      "hanzi": "渺",
+      "pinyin": "miǎo"
+    },
+    {
+      "hanzi": "篝",
+      "pinyin": "gōu"
+    },
+    {
+      "hanzi": "萌",
+      "pinyin": "méng"
+    },
+    {
+      "hanzi": "澄",
+      "pinyin": "chéng"
+    },
+    {
+      "hanzi": "澈",
+      "pinyin": "chè"
+    },
+    {
+      "hanzi": "旖",
+      "pinyin": "yǐ"
+    },
+    {
+      "hanzi": "旎",
+      "pinyin": "nǐ"
+    },
+    {
+      "hanzi": "瑞",
+      "pinyin": "ruì"
+    },
+    {
+      "hanzi": "莱",
+      "pinyin": "lái"
+    },
+    {
+      "hanzi": "垠",
+      "pinyin": "yín"
+    },
+    {
+      "hanzi": "顷",
+      "pinyin": "qǐng"
+    },
+    {
+      "hanzi": "峨",
+      "pinyin": "é"
+    },
+    {
+      "hanzi": "燕",
+      "pinyin": "yān"
+    },
+    {
+      "hanzi": "缀",
+      "pinyin": "zhuì"
+    },
+    {
+      "hanzi": "葬",
+      "pinyin": "zàng"
+    },
+    {
+      "hanzi": "腮",
+      "pinyin": "sāi"
+    },
+    {
+      "hanzi": "虬",
+      "pinyin": "qiú"
+    },
+    {
+      "hanzi": "玷",
+      "pinyin": "diàn"
+    },
+    {
+      "hanzi": "郑",
+      "pinyin": "zhèng"
+    },
+    {
+      "hanzi": "秉",
+      "pinyin": "bǐng"
+    },
+    {
+      "hanzi": "飕",
+      "pinyin": "sōu"
+    },
+    {
+      "hanzi": "码",
+      "pinyin": "mǎ"
+    },
+    {
+      "hanzi": "撩",
+      "pinyin": "liáo"
+    },
+    {
+      "hanzi": "绢",
+      "pinyin": "juàn"
+    },
+    {
+      "hanzi": "侨",
+      "pinyin": "qiáo"
+    },
+    {
+      "hanzi": "眷",
+      "pinyin": "juàn"
+    },
+    {
+      "hanzi": "瑜",
+      "pinyin": "yú"
+    },
+    {
+      "hanzi": "忌",
+      "pinyin": "jì"
+    },
+    {
+      "hanzi": "督",
+      "pinyin": "dū"
+    },
+    {
+      "hanzi": "幔",
+      "pinyin": "màn"
+    },
+    {
+      "hanzi": "寨",
+      "pinyin": "zhài"
+    },
+    {
+      "hanzi": "擂",
+      "pinyin": "léi"
+    },
+    {
+      "hanzi": "呐",
+      "pinyin": "nà"
+    },
+    {
+      "hanzi": "弩",
+      "pinyin": "nǔ"
+    },
+    {
+      "hanzi": "丞",
+      "pinyin": "chéng"
+    },
+    {
+      "hanzi": "倚",
+      "pinyin": "yǐ"
+    },
+    {
+      "hanzi": "箸",
+      "pinyin": "zhù"
+    },
+    {
+      "hanzi": "碟",
+      "pinyin": "dié"
+    },
+    {
+      "hanzi": "斤",
+      "pinyin": "jīn"
+    },
+    {
+      "hanzi": "俺",
+      "pinyin": "ǎn"
+    },
+    {
+      "hanzi": "绰",
+      "pinyin": "chāo"
+    },
+    {
+      "hanzi": "杖",
+      "pinyin": "zhàng"
+    },
+    {
+      "hanzi": "擒",
+      "pinyin": "qín"
+    },
+    {
+      "hanzi": "勿",
+      "pinyin": "wù"
+    },
+    {
+      "hanzi": "肋",
+      "pinyin": "lèi"
+    },
+    {
+      "hanzi": "踉",
+      "pinyin": "liàng"
+    },
+    {
+      "hanzi": "跄",
+      "pinyin": "qiàng"
+    },
+    {
+      "hanzi": "呵",
+      "pinyin": "ā"
+    },
+    {
+      "hanzi": "胯",
+      "pinyin": "kuà"
+    },
+    {
+      "hanzi": "霹",
+      "pinyin": "pī"
+    },
+    {
+      "hanzi": "雳",
+      "pinyin": "lì"
+    },
+    {
+      "hanzi": "咆",
+      "pinyin": "páo"
+    },
+    {
+      "hanzi": "哮",
+      "pinyin": "xiào"
+    },
+    {
+      "hanzi": "锤",
+      "pinyin": "chuí"
+    },
+    {
+      "hanzi": "泊",
+      "pinyin": "pō"
+    },
+    {
+      "hanzi": "芝",
+      "pinyin": "zhī"
+    },
+    {
+      "hanzi": "遂",
+      "pinyin": "suì"
+    },
+    {
+      "hanzi": "迸",
+      "pinyin": "bèng"
+    },
+    {
+      "hanzi": "涧",
+      "pinyin": "jiàn"
+    },
+    {
+      "hanzi": "獐",
+      "pinyin": "zhāng"
+    },
+    {
+      "hanzi": "猕",
+      "pinyin": "mí"
+    },
+    {
+      "hanzi": "猿",
+      "pinyin": "yuán"
+    },
+    {
+      "hanzi": "耶",
+      "pinyin": "yé"
+    },
+    {
+      "hanzi": "挈",
+      "pinyin": "qiè"
+    },
+    {
+      "hanzi": "瞑",
+      "pinyin": "míng"
+    },
+    {
+      "hanzi": "窍",
+      "pinyin": "qiào"
+    },
+    {
+      "hanzi": "楷",
+      "pinyin": "kǎi"
+    },
+    {
+      "hanzi": "镌",
+      "pinyin": "juān"
+    },
+    {
+      "hanzi": "挠",
+      "pinyin": "náo"
+    },
+    {
+      "hanzi": "劣",
+      "pinyin": "liè"
+    },
+    {
+      "hanzi": "呵",
+      "pinyin": "a"
+    },
+    {
+      "hanzi": "恰",
+      "pinyin": "qià"
+    },
+    {
+      "hanzi": "屉",
+      "pinyin": "tì"
+    },
+    {
+      "hanzi": "嫣",
+      "pinyin": "yān"
+    },
+    {
+      "hanzi": "讳",
+      "pinyin": "huì"
+    },
+    {
+      "hanzi": "晦",
+      "pinyin": "huì"
+    },
+    {
+      "hanzi": "墩",
+      "pinyin": "dūn"
+    },
+    {
+      "hanzi": "钗",
+      "pinyin": "chāi"
+    },
+    {
+      "hanzi": "敞",
+      "pinyin": "chǎng"
+    },
+    {
+      "hanzi": "雯",
+      "pinyin": "wén"
+    },
+    {
+      "hanzi": "袭",
+      "pinyin": "xí"
+    },
+    {
+      "hanzi": "喇",
+      "pinyin": "lǎ"
+    },
+    {
+      "hanzi": "仞",
+      "pinyin": "rèn"
+    },
+    {
+      "hanzi": "岳",
+      "pinyin": "yuè"
+    },
+    {
+      "hanzi": "蓟",
+      "pinyin": "jì"
+    },
+    {
+      "hanzi": "涕",
+      "pinyin": "tì"
+    },
+    {
+      "hanzi": "裳",
+      "pinyin": "cháng"
+    },
+    {
+      "hanzi": "襄",
+      "pinyin": "xiāng"
+    },
+    {
+      "hanzi": "彭",
+      "pinyin": "péng"
+    },
+    {
+      "hanzi": "拟",
+      "pinyin": "nǐ"
+    },
+    {
+      "hanzi": "谋",
+      "pinyin": "móu"
+    },
+    {
+      "hanzi": "赴",
+      "pinyin": "fù"
+    },
+    {
+      "hanzi": "殊",
+      "pinyin": "shū"
+    },
+    {
+      "hanzi": "踌",
+      "pinyin": "chóu"
+    },
+    {
+      "hanzi": "躇",
+      "pinyin": "chú"
+    },
+    {
+      "hanzi": "黯",
+      "pinyin": "àn"
+    },
+    {
+      "hanzi": "革",
+      "pinyin": "gé"
+    },
+    {
+      "hanzi": "沃",
+      "pinyin": "wò"
+    },
+    {
+      "hanzi": "匪",
+      "pinyin": "fěi"
+    },
+    {
+      "hanzi": "绷",
+      "pinyin": "bēng"
+    },
+    {
+      "hanzi": "衷",
+      "pinyin": "zhōng"
+    },
+    {
+      "hanzi": "堪",
+      "pinyin": "kān"
+    },
+    {
+      "hanzi": "筹",
+      "pinyin": "chóu"
+    },
+    {
+      "hanzi": "矜",
+      "pinyin": "jīn"
+    },
+    {
+      "hanzi": "俘",
+      "pinyin": "fú"
+    },
+    {
+      "hanzi": "镯",
+      "pinyin": "zhuó"
+    },
+    {
+      "hanzi": "吓",
+      "pinyin": "hè"
+    },
+    {
+      "hanzi": "裆",
+      "pinyin": "dāng"
+    },
+    {
+      "hanzi": "企",
+      "pinyin": "qǐ"
+    },
+    {
+      "hanzi": "彼",
+      "pinyin": "bǐ"
+    },
+    {
+      "hanzi": "褂",
+      "pinyin": "guà"
+    },
+    {
+      "hanzi": "坞",
+      "pinyin": "wù"
+    },
+    {
+      "hanzi": "嘎",
+      "pinyin": "gǎ"
+    },
+    {
+      "hanzi": "绊",
+      "pinyin": "bàn"
+    },
+    {
+      "hanzi": "揪",
+      "pinyin": "jiū"
+    },
+    {
+      "hanzi": "扳",
+      "pinyin": "bān"
+    },
+    {
+      "hanzi": "腕",
+      "pinyin": "wàn"
+    },
+    {
+      "hanzi": "铸",
+      "pinyin": "zhù"
+    },
+    {
+      "hanzi": "颧",
+      "pinyin": "quán"
+    },
+    {
+      "hanzi": "疤",
+      "pinyin": "bā"
+    },
+    {
+      "hanzi": "监",
+      "pinyin": "jiàn"
+    },
+    {
+      "hanzi": "侄",
+      "pinyin": "zhí"
+    },
+    {
+      "hanzi": "痰",
+      "pinyin": "tán"
+    },
+    {
+      "hanzi": "揩",
+      "pinyin": "kāi"
+    },
+    {
+      "hanzi": "浆",
+      "pinyin": "jiāng"
+    },
+    {
+      "hanzi": "傅",
+      "pinyin": "fù"
+    },
+    {
+      "hanzi": "袱",
+      "pinyin": "fú"
+    },
+    {
+      "hanzi": "蘸",
+      "pinyin": "zhàn"
+    },
+    {
+      "hanzi": "馅",
+      "pinyin": "xiàn"
+    },
+    {
+      "hanzi": "诈",
+      "pinyin": "zhà"
+    },
+    {
+      "hanzi": "怔",
+      "pinyin": "zhēng"
+    },
+    {
+      "hanzi": "吾",
+      "pinyin": "wú"
+    },
+    {
+      "hanzi": "弗",
+      "pinyin": "fú"
+    },
+    {
+      "hanzi": "夫",
+      "pinyin": "fú"
+    },
+    {
+      "hanzi": "策",
+      "pinyin": "cè"
+    },
+    {
+      "hanzi": "荐",
+      "pinyin": "jiàn"
+    },
+    {
+      "hanzi": "肆",
+      "pinyin": "sì"
+    },
+    {
+      "hanzi": "桅",
+      "pinyin": "wéi"
+    },
+    {
+      "hanzi": "撕",
+      "pinyin": "sī"
+    },
+    {
+      "hanzi": "唬",
+      "pinyin": "hǔ"
+    },
+    {
+      "hanzi": "龇",
+      "pinyin": "zī"
+    },
+    {
+      "hanzi": "咧",
+      "pinyin": "liě"
+    },
+    {
+      "hanzi": "瞄",
+      "pinyin": "miáo"
+    },
+    {
+      "hanzi": "尼",
+      "pinyin": "ní"
+    },
+    {
+      "hanzi": "艄",
+      "pinyin": "shāo"
+    },
+    {
+      "hanzi": "翘",
+      "pinyin": "qiào"
+    },
+    {
+      "hanzi": "姆",
+      "pinyin": "mǔ"
+    },
+    {
+      "hanzi": "祷",
+      "pinyin": "dǎo"
+    },
+    {
+      "hanzi": "雇",
+      "pinyin": "gù"
+    },
+    {
+      "hanzi": "哗",
+      "pinyin": "huá"
+    },
+    {
+      "hanzi": "毡",
+      "pinyin": "zhān"
+    },
+    {
+      "hanzi": "犊",
+      "pinyin": "dú"
+    },
+    {
+      "hanzi": "眺",
+      "pinyin": "tiào"
+    },
+    {
+      "hanzi": "膘",
+      "pinyin": "biāo"
+    },
+    {
+      "hanzi": "驰",
+      "pinyin": "chí"
+    },
+    {
+      "hanzi": "爵",
+      "pinyin": "jué"
+    },
+    {
+      "hanzi": "噜",
+      "pinyin": "lū"
+    },
+    {
+      "hanzi": "吆",
+      "pinyin": "yāo"
+    },
+    {
+      "hanzi": "哞",
+      "pinyin": "mōu"
+    },
+    {
+      "hanzi": "畜",
+      "pinyin": "chù"
+    },
+    {
+      "hanzi": "译",
+      "pinyin": "yì"
+    },
+    {
+      "hanzi": "愧",
+      "pinyin": "kuì"
+    },
+    {
+      "hanzi": "熠",
+      "pinyin": "yì"
+    },
+    {
+      "hanzi": "遐",
+      "pinyin": "xiá"
+    },
+    {
+      "hanzi": "黏",
+      "pinyin": "nián"
+    },
+    {
+      "hanzi": "刃",
+      "pinyin": "rèn"
+    },
+    {
+      "hanzi": "埃",
+      "pinyin": "āi"
+    },
+    {
+      "hanzi": "滥",
+      "pinyin": "làn"
+    },
+    {
+      "hanzi": "淤",
+      "pinyin": "yū"
+    },
+    {
+      "hanzi": "湛",
+      "pinyin": "zhàn"
+    },
+    {
+      "hanzi": "诣",
+      "pinyin": "yì"
+    },
+    {
+      "hanzi": "禽",
+      "pinyin": "qín"
+    },
+    {
+      "hanzi": "拇",
+      "pinyin": "mǔ"
+    },
+    {
+      "hanzi": "弦",
+      "pinyin": "xián"
+    },
+    {
+      "hanzi": "揿",
+      "pinyin": "qìn"
+    },
+    {
+      "hanzi": "搔",
+      "pinyin": "sāo"
+    },
+    {
+      "hanzi": "窈",
+      "pinyin": "yǎo"
+    },
+    {
+      "hanzi": "窕",
+      "pinyin": "tiǎo"
+    },
+    {
+      "hanzi": "秽",
+      "pinyin": "huì"
+    },
+    {
+      "hanzi": "轧",
+      "pinyin": "yà"
+    },
+    {
+      "hanzi": "拧",
+      "pinyin": "nǐng"
+    },
+    {
+      "hanzi": "纽",
+      "pinyin": "niǔ"
+    },
+    {
+      "hanzi": "仓",
+      "pinyin": "cāng"
+    },
+    {
+      "hanzi": "薄",
+      "pinyin": "bó"
+    },
+    {
+      "hanzi": "庸",
+      "pinyin": "yōng"
+    },
+    {
+      "hanzi": "憎",
+      "pinyin": "zēng"
+    },
+    {
+      "hanzi": "胚",
+      "pinyin": "pēi"
+    },
+    {
+      "hanzi": "祸",
+      "pinyin": "huò"
+    },
+    {
+      "hanzi": "患",
+      "pinyin": "huàn"
+    },
+    {
+      "hanzi": "赋",
+      "pinyin": "fù"
+    },
+    {
+      "hanzi": "痴",
+      "pinyin": "chī"
+    },
+    {
+      "hanzi": "绞",
+      "pinyin": "jiǎo"
+    },
+    {
+      "hanzi": "嘿",
+      "pinyin": "hēi"
+    },
+    {
+      "hanzi": "伊",
+      "pinyin": "yī"
+    },
+    {
+      "hanzi": "娜",
+      "pinyin": "nà"
+    },
+    {
+      "hanzi": "窘",
+      "pinyin": "jiǒng"
+    }
+  ]
+}

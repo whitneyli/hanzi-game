@@ -1,0 +1,52 @@
+[
+  {
+    "id": "grade1a",
+    "title": "一年级上册识字表",
+    "file": "sets/grade1a.json"
+  },
+  {
+    "id": "grade1b",
+    "title": "一年级下册识字表",
+    "file": "sets/grade1b.json"
+  },
+  {
+    "id": "grade2a",
+    "title": "二年级上册识字表",
+    "file": "sets/grade2a.json"
+  },
+  {
+    "id": "grade2b",
+    "title": "二年级下册识字表",
+    "file": "sets/grade2b.json"
+  },
+  {
+    "id": "grade3a",
+    "title": "三年级上册识字表",
+    "file": "sets/grade3a.json"
+  },
+  {
+    "id": "grade3b",
+    "title": "三年级下册识字表",
+    "file": "sets/grade3b.json"
+  },
+  {
+    "id": "grade4a",
+    "title": "四年级上册识字表",
+    "file": "sets/grade4a.json"
+  },
+  {
+    "id": "grade4b",
+    "title": "四年级下册识字表",
+    "file": "sets/grade4b.json"
+  },
+  {
+    "id": "grade5a",
+    "title": "五年级上册识字表",
+    "file": "sets/grade5a.json"
+  },
+  {
+    "id": "grade5b",
+    "title": "五年级下册识字表",
+    "file": "sets/grade5b.json"
+  }
+]
